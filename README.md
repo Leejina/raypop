@@ -1,5 +1,6 @@
 # raypop
 
-##  cowork with younghee
-### 폴더규칙
->    common  
+##  cowork
+### folder rule
+>   html, js, css - folder 각각작성
+> common js 및common css  
